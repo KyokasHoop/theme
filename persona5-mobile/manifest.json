@@ -1,0 +1,11 @@
+{
+    "name": "Persona 5 Mobile UI",
+    "description": "Persona 5 SNS-style UI patch for Revenge Discord Android: crimson screens, black panels, angular corners, white outlines, and direct style recoloring.",
+    "authors": [
+        {
+            "name": "Kyoka"
+        }
+    ],
+    "main": "index.js",
+    "hash": "b42a5363d5cceda9"
+}
